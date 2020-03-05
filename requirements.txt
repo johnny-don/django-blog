@@ -8,7 +8,7 @@ CodeIntel==0.9.3
 colorama==0.4.3
 configparser==4.0.2
 contextlib2==0.6.0.post1
-cryptography==2.1.4
+cryptography==2.3
 distlib==0.3.0
 dj-database-url==0.5.0
 Django==1.11.10
